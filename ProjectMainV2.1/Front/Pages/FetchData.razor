@@ -1,0 +1,37 @@
+﻿@page "/employee"
+@inherits EmployeesListBase
+
+<h3>Employees Base</h3>
+
+@if (Employees == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>SurName</th>
+                <th>LastName</th>
+                <th>Department Id</th>
+                <th>Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Employees)
+            {
+                <tr>
+                    <td>@employee.Id</td>
+                    <td>@employee.Name</td>
+                    <td>@employee.SurName</td>
+                    <td>@employee.LastName</td>
+                    <td>@employee.Id_Dep</td>
+                    <td>@employee.Salary</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

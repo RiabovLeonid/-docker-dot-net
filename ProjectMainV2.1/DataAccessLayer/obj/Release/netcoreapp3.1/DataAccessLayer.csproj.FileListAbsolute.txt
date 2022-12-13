@@ -1,0 +1,12 @@
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.deps.json
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.dll
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\bin\Release\netcoreapp3.1\DataAccessLayer.pdb
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.dll
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.pdb
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\DataAccessLayer\obj\Release\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache

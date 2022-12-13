@@ -1,0 +1,15 @@
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\bin\Release\netcoreapp3.1\BuisnessLogicLayer.deps.json
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\bin\Release\netcoreapp3.1\BuisnessLogicLayer.runtimeconfig.json
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\bin\Release\netcoreapp3.1\BuisnessLogicLayer.runtimeconfig.dev.json
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\bin\Release\netcoreapp3.1\BuisnessLogicLayer.dll
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\bin\Release\netcoreapp3.1\BuisnessLogicLayer.pdb
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\bin\Release\netcoreapp3.1\DataAccessLayer.dll
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\bin\Release\netcoreapp3.1\DataAccessLayer.pdb
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\obj\Release\netcoreapp3.1\BuisnessLogicLayer.csprojAssemblyReference.cache
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\obj\Release\netcoreapp3.1\BuisnessLogicLayer.AssemblyInfoInputs.cache
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\obj\Release\netcoreapp3.1\BuisnessLogicLayer.AssemblyInfo.cs
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\obj\Release\netcoreapp3.1\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\obj\Release\netcoreapp3.1\BuisnessLogicLayer.csproj.CopyComplete
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\obj\Release\netcoreapp3.1\BuisnessLogicLayer.dll
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\obj\Release\netcoreapp3.1\BuisnessLogicLayer.pdb
+D:\inside\univer\5k\Hrt_sto\ProjectMainV2.1\BuisnessLogicLayer\obj\Release\netcoreapp3.1\BuisnessLogicLayer.genruntimeconfig.cache

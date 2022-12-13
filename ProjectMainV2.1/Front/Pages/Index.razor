@@ -1,0 +1,36 @@
+﻿@page "/"
+
+@inherits SpendingListBase
+
+<h3>Spending Base</h3>
+
+@if (Spendings == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>DepId</th>
+                <th>SpendId</th>
+                <th>Date</th>
+                <th>Sum</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var spending in Spendings)
+            {
+                <tr>
+                    <td>@spending.Id</td>
+                    <td>@spending.Id_Dep</td>
+                    <td>@spending.Id_Spend_type</td>
+                    <td>@spending.DateT.ToShortDateString()</td>
+                    <td>@spending.Summa</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
